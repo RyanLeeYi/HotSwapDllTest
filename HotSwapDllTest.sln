@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotSwapDllTest", "HotSwapDllTest\HotSwapDllTest.csproj", "{AB3AFA3A-439D-455B-B002-9220CE261666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlugin", "MyPlugin\MyPlugin\MyPlugin.csproj", "{42279D55-CF1B-4C36-A122-D104F35C0B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceLib", "InterfaceLib\InterfaceLib.csproj", "{C81BC749-01F7-43AD-BC1A-1F30854F2932}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AB3AFA3A-439D-455B-B002-9220CE261666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3AFA3A-439D-455B-B002-9220CE261666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3AFA3A-439D-455B-B002-9220CE261666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42279D55-CF1B-4C36-A122-D104F35C0B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42279D55-CF1B-4C36-A122-D104F35C0B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42279D55-CF1B-4C36-A122-D104F35C0B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42279D55-CF1B-4C36-A122-D104F35C0B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81BC749-01F7-43AD-BC1A-1F30854F2932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81BC749-01F7-43AD-BC1A-1F30854F2932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81BC749-01F7-43AD-BC1A-1F30854F2932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81BC749-01F7-43AD-BC1A-1F30854F2932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

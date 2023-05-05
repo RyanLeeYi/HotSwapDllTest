@@ -44,5 +44,11 @@
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\InterfaceLib\InterfaceLib.csproj">
+      <Project>{c81bc749-01f7-43ad-bc1a-1f30854f2932}</Project>
+      <Name>InterfaceLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

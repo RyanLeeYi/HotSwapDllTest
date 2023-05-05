@@ -1,0 +1,6 @@
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\InterfaceLib\bin\Debug\InterfaceLib.dll
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\InterfaceLib\bin\Debug\InterfaceLib.pdb
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\InterfaceLib\obj\Debug\InterfaceLib.csproj.AssemblyReference.cache
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\InterfaceLib\obj\Debug\InterfaceLib.csproj.CoreCompileInputs.cache
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\InterfaceLib\obj\Debug\InterfaceLib.dll
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\InterfaceLib\obj\Debug\InterfaceLib.pdb

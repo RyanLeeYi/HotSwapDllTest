@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InterfaceLib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace MyPlugin
 {
-    public class Plugin
+    public class Plugin : IMyInterface
     {
-        public string SayHello()
+        public string MyMethod()
         {
-            return "Hello from plugin!0001";
+            return "Hello from plugin!0002";
         }
     }
 }
