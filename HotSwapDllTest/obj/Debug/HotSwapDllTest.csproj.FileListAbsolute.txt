@@ -1,0 +1,8 @@
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\bin\Debug\HotSwapDllTest.exe.config
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\bin\Debug\HotSwapDllTest.exe
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\bin\Debug\HotSwapDllTest.pdb
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\obj\Debug\HotSwapDllTest.csproj.AssemblyReference.cache
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\obj\Debug\HotSwapDllTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\obj\Debug\HotSwapDllTest.csproj.CoreCompileInputs.cache
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\obj\Debug\HotSwapDllTest.exe
+C:\Users\003730\Desktop\測試用專案\HotSwapDllTest\HotSwapDllTest\obj\Debug\HotSwapDllTest.pdb

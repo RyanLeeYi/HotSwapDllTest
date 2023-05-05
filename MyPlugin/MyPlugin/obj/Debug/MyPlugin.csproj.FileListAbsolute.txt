@@ -1,0 +1,6 @@
+C:\Users\003730\Desktop\測試用專案\MyPlugin\MyPlugin\obj\Debug\MyPlugin.csproj.AssemblyReference.cache
+C:\Users\003730\Desktop\測試用專案\MyPlugin\MyPlugin\obj\Debug\MyPlugin.csproj.CoreCompileInputs.cache
+C:\Users\003730\Desktop\測試用專案\MyPlugin\MyPlugin\obj\Debug\MyPlugin.dll
+C:\Users\003730\Desktop\測試用專案\MyPlugin\MyPlugin\bin\Debug\MyPlugin.dll
+C:\Users\003730\Desktop\測試用專案\MyPlugin\MyPlugin\bin\Debug\MyPlugin.pdb
+C:\Users\003730\Desktop\測試用專案\MyPlugin\MyPlugin\obj\Debug\MyPlugin.pdb
